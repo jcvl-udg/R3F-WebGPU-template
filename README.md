@@ -18,6 +18,8 @@ bun run dev
 - TSL
 - ESLint
 - Prettier
+- Bun
+- Vite
 
 ## License
 
