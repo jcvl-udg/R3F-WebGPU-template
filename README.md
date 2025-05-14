@@ -21,7 +21,11 @@ bun run dev
 - Bun
 - Vite
 
+--------- Added
+- Rapier
+- Noises (simplex-noise/open-simplex-noise)
+- Paparse
+
 ## License
 
 MIT
-

@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <WebGPUCanvas quality={"default"}>
+      <WebGPUCanvas shadows quality={"default"}  > 
         <Experience />
       </WebGPUCanvas>
 
